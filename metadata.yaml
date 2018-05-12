@@ -1,0 +1,43 @@
+_repo: The-Life-Of-Thomas-Paine-Vol.-I.--of-II-a-Sketch-of-Paine-by-William-Cobbett_37701
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Cobbett, William
+    aliases:
+    - Retort, Dick
+    - Cobbett, Wm. (William)
+    - Cobbet, William
+    - Porcupine, Peter
+    birthdate: 1763
+    deathdate: 1835
+    gutenberg_agent_id: '6098'
+    url: http://www.gutenberg.org/2009/agents/6098
+    wikipedia: http://en.wikipedia.org/wiki/William_Cobbett
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conway, Moncure Daniel
+    alias: Conway, M. D. (Moncure Daniel)
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '1283'
+    url: http://www.gutenberg.org/2009/agents/1283
+    wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paine, Thomas, 1737-1809'
+- !lcc 'JC'
+title: "The Life Of Thomas Paine, Vol. 1. (of 2)\r\nWith A History of His Literary,\
+  \ Political and Religious Career in America France, and England; to which is added\
+  \ a Sketch of Paine by William Cobbett"
+url: http://www.gutenberg.org/ebooks/37701
