@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1283
     wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37701#The-Life-Of-Thomas-Paine-Vol.-I.--of-II-a-Sketch-of-Paine-by-William-Cobbett
 gutenberg_issued: '2011-10-10'
 gutenberg_type: Text
 identifiers:
